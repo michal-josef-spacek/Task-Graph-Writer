@@ -35,4 +35,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Graph-Writer
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Task-Graph-Writer
-version: '0.02'
+version: '0.03'
