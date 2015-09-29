@@ -25,7 +25,7 @@ requires:
   Graph::Graph6: 4
   Graph::Writer: 2.07
   Graph::Writer::Cytoscape: 1
-  Graph::Writer::DSM: 0.06
+  Graph::Writer::DSM: 0.006
   Graph::Writer::DrGeo: 0.01
   Graph::Writer::GraphViz: 0.11
   Graph::Writer::TGXML: 0.01

@@ -21,7 +21,7 @@ recursive_author_tests('xt');
 requires 'Graph::Graph6' => 4;
 requires 'Graph::Writer' => 2.07,
 requires 'Graph::Writer::Cytoscape' => 1.00;
-requires 'Graph::Writer::DSM' => 0.06;
+requires 'Graph::Writer::DSM' => 0.006;
 requires 'Graph::Writer::DrGeo' => 0.01;
 requires 'Graph::Writer::TGXML' => 0.01;
 requires 'Graph::Writer::GraphViz' => 0.11;
